@@ -16,6 +16,8 @@ namespace ValuesAndReferences
             Console.WriteLine("Original contents:");
             ShowVars(x0, y0);
 
+            //----->Irá imprimir x0 = 9 e y0 = [ 2 3 4 ].
+
             // Change x1 and y1
             x1 = 1;
             y1[1] = 1;
@@ -24,10 +26,14 @@ namespace ValuesAndReferences
             Console.WriteLine("After changing x1 and y1 values:");
             ShowVars(x0, y0);
 
+            //----->Irá imprimir x0 = 9 e y0 = [ 2 1 4 ].
+
             // Change y1 again and check what happens to y0
             y1 = new int[] { -5, -4, -3 };
             Console.WriteLine("After changing y1 reference:");
             ShowVars(x0, y0);
+
+            //----->Irá imprimir x0 = 9 e y0 = [ 2 1 4 ].
         }
 
         private static void ShowVars(int a, int[] b)

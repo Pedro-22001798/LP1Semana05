@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\LP1\Semana5\ValuesAndReferences\bin\Debug\net6.0\ValuesAndReferences.exe
+C:\Users\Pedro\Desktop\LP1\Semana5\ValuesAndReferences\bin\Debug\net6.0\ValuesAndReferences.deps.json
+C:\Users\Pedro\Desktop\LP1\Semana5\ValuesAndReferences\bin\Debug\net6.0\ValuesAndReferences.runtimeconfig.json
+C:\Users\Pedro\Desktop\LP1\Semana5\ValuesAndReferences\bin\Debug\net6.0\ValuesAndReferences.dll
+C:\Users\Pedro\Desktop\LP1\Semana5\ValuesAndReferences\bin\Debug\net6.0\ValuesAndReferences.pdb
+C:\Users\Pedro\Desktop\LP1\Semana5\ValuesAndReferences\obj\Debug\net6.0\ValuesAndReferences.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\LP1\Semana5\ValuesAndReferences\obj\Debug\net6.0\ValuesAndReferences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\LP1\Semana5\ValuesAndReferences\obj\Debug\net6.0\ValuesAndReferences.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\LP1\Semana5\ValuesAndReferences\obj\Debug\net6.0\ValuesAndReferences.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\LP1\Semana5\ValuesAndReferences\obj\Debug\net6.0\ValuesAndReferences.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\LP1\Semana5\ValuesAndReferences\obj\Debug\net6.0\ValuesAndReferences.dll
+C:\Users\Pedro\Desktop\LP1\Semana5\ValuesAndReferences\obj\Debug\net6.0\refint\ValuesAndReferences.dll
+C:\Users\Pedro\Desktop\LP1\Semana5\ValuesAndReferences\obj\Debug\net6.0\ValuesAndReferences.pdb
+C:\Users\Pedro\Desktop\LP1\Semana5\ValuesAndReferences\obj\Debug\net6.0\ValuesAndReferences.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\LP1\Semana5\ValuesAndReferences\obj\Debug\net6.0\ref\ValuesAndReferences.dll

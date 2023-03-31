@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\LP1\Semana5\RandomTest\bin\Debug\net6.0\RandomTest.exe
+C:\Users\Pedro\Desktop\LP1\Semana5\RandomTest\bin\Debug\net6.0\RandomTest.deps.json
+C:\Users\Pedro\Desktop\LP1\Semana5\RandomTest\bin\Debug\net6.0\RandomTest.runtimeconfig.json
+C:\Users\Pedro\Desktop\LP1\Semana5\RandomTest\bin\Debug\net6.0\RandomTest.dll
+C:\Users\Pedro\Desktop\LP1\Semana5\RandomTest\bin\Debug\net6.0\RandomTest.pdb
+C:\Users\Pedro\Desktop\LP1\Semana5\RandomTest\obj\Debug\net6.0\RandomTest.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\LP1\Semana5\RandomTest\obj\Debug\net6.0\RandomTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\LP1\Semana5\RandomTest\obj\Debug\net6.0\RandomTest.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\LP1\Semana5\RandomTest\obj\Debug\net6.0\RandomTest.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\LP1\Semana5\RandomTest\obj\Debug\net6.0\RandomTest.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\LP1\Semana5\RandomTest\obj\Debug\net6.0\RandomTest.dll
+C:\Users\Pedro\Desktop\LP1\Semana5\RandomTest\obj\Debug\net6.0\refint\RandomTest.dll
+C:\Users\Pedro\Desktop\LP1\Semana5\RandomTest\obj\Debug\net6.0\RandomTest.pdb
+C:\Users\Pedro\Desktop\LP1\Semana5\RandomTest\obj\Debug\net6.0\RandomTest.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\LP1\Semana5\RandomTest\obj\Debug\net6.0\ref\RandomTest.dll

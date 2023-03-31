@@ -10,11 +10,13 @@ namespace UpperUnion
             string[] newArray = Array.ConvertAll(args,s => s.ToUpper());
             Array.Sort(newArray);
 
-            string joinString = String.Join("-",newArray);
+            StringBuilder sb = new StringBuilder();
+
+            sb.AppendJoin("-",newArray);
 
             if(args.Length != 0)
             {
-                Console.WriteLine(joinString);
+                Console.WriteLine(sb);
             }
             else if(args.Length == 0)
             {

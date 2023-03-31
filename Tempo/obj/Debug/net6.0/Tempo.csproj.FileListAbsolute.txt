@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\LP1\Semana5\Tempo\bin\Debug\net6.0\Tempo.exe
+C:\Users\Pedro\Desktop\LP1\Semana5\Tempo\bin\Debug\net6.0\Tempo.deps.json
+C:\Users\Pedro\Desktop\LP1\Semana5\Tempo\bin\Debug\net6.0\Tempo.runtimeconfig.json
+C:\Users\Pedro\Desktop\LP1\Semana5\Tempo\bin\Debug\net6.0\Tempo.dll
+C:\Users\Pedro\Desktop\LP1\Semana5\Tempo\bin\Debug\net6.0\Tempo.pdb
+C:\Users\Pedro\Desktop\LP1\Semana5\Tempo\obj\Debug\net6.0\Tempo.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\LP1\Semana5\Tempo\obj\Debug\net6.0\Tempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\LP1\Semana5\Tempo\obj\Debug\net6.0\Tempo.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\LP1\Semana5\Tempo\obj\Debug\net6.0\Tempo.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\LP1\Semana5\Tempo\obj\Debug\net6.0\Tempo.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\LP1\Semana5\Tempo\obj\Debug\net6.0\Tempo.dll
+C:\Users\Pedro\Desktop\LP1\Semana5\Tempo\obj\Debug\net6.0\refint\Tempo.dll
+C:\Users\Pedro\Desktop\LP1\Semana5\Tempo\obj\Debug\net6.0\Tempo.pdb
+C:\Users\Pedro\Desktop\LP1\Semana5\Tempo\obj\Debug\net6.0\Tempo.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\LP1\Semana5\Tempo\obj\Debug\net6.0\ref\Tempo.dll

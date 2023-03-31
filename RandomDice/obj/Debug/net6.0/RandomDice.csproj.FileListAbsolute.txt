@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\LP1\Semana5\RandomDice\bin\Debug\net6.0\RandomDice.exe
+C:\Users\Pedro\Desktop\LP1\Semana5\RandomDice\bin\Debug\net6.0\RandomDice.deps.json
+C:\Users\Pedro\Desktop\LP1\Semana5\RandomDice\bin\Debug\net6.0\RandomDice.runtimeconfig.json
+C:\Users\Pedro\Desktop\LP1\Semana5\RandomDice\bin\Debug\net6.0\RandomDice.dll
+C:\Users\Pedro\Desktop\LP1\Semana5\RandomDice\bin\Debug\net6.0\RandomDice.pdb
+C:\Users\Pedro\Desktop\LP1\Semana5\RandomDice\obj\Debug\net6.0\RandomDice.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\LP1\Semana5\RandomDice\obj\Debug\net6.0\RandomDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\LP1\Semana5\RandomDice\obj\Debug\net6.0\RandomDice.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\LP1\Semana5\RandomDice\obj\Debug\net6.0\RandomDice.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\LP1\Semana5\RandomDice\obj\Debug\net6.0\RandomDice.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\LP1\Semana5\RandomDice\obj\Debug\net6.0\RandomDice.dll
+C:\Users\Pedro\Desktop\LP1\Semana5\RandomDice\obj\Debug\net6.0\refint\RandomDice.dll
+C:\Users\Pedro\Desktop\LP1\Semana5\RandomDice\obj\Debug\net6.0\RandomDice.pdb
+C:\Users\Pedro\Desktop\LP1\Semana5\RandomDice\obj\Debug\net6.0\RandomDice.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\LP1\Semana5\RandomDice\obj\Debug\net6.0\ref\RandomDice.dll

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValuesAndReferences", "Valu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tempo", "Tempo\Tempo.csproj", "{6618693E-09A6-425E-B621-B4C59CB2D8E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomTest", "RandomTest\RandomTest.csproj", "{D1FC214C-EF5F-417F-9DC0-203DC0902B60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{6618693E-09A6-425E-B621-B4C59CB2D8E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6618693E-09A6-425E-B621-B4C59CB2D8E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6618693E-09A6-425E-B621-B4C59CB2D8E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1FC214C-EF5F-417F-9DC0-203DC0902B60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1FC214C-EF5F-417F-9DC0-203DC0902B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1FC214C-EF5F-417F-9DC0-203DC0902B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1FC214C-EF5F-417F-9DC0-203DC0902B60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

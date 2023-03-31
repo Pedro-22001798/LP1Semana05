@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\LP1\Semana5\UpperUnion\bin\Debug\net6.0\UpperUnion.exe
+C:\Users\Pedro\Desktop\LP1\Semana5\UpperUnion\bin\Debug\net6.0\UpperUnion.deps.json
+C:\Users\Pedro\Desktop\LP1\Semana5\UpperUnion\bin\Debug\net6.0\UpperUnion.runtimeconfig.json
+C:\Users\Pedro\Desktop\LP1\Semana5\UpperUnion\bin\Debug\net6.0\UpperUnion.dll
+C:\Users\Pedro\Desktop\LP1\Semana5\UpperUnion\bin\Debug\net6.0\UpperUnion.pdb
+C:\Users\Pedro\Desktop\LP1\Semana5\UpperUnion\obj\Debug\net6.0\UpperUnion.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\LP1\Semana5\UpperUnion\obj\Debug\net6.0\UpperUnion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\LP1\Semana5\UpperUnion\obj\Debug\net6.0\UpperUnion.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\LP1\Semana5\UpperUnion\obj\Debug\net6.0\UpperUnion.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\LP1\Semana5\UpperUnion\obj\Debug\net6.0\UpperUnion.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\LP1\Semana5\UpperUnion\obj\Debug\net6.0\UpperUnion.dll
+C:\Users\Pedro\Desktop\LP1\Semana5\UpperUnion\obj\Debug\net6.0\refint\UpperUnion.dll
+C:\Users\Pedro\Desktop\LP1\Semana5\UpperUnion\obj\Debug\net6.0\UpperUnion.pdb
+C:\Users\Pedro\Desktop\LP1\Semana5\UpperUnion\obj\Debug\net6.0\UpperUnion.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\LP1\Semana5\UpperUnion\obj\Debug\net6.0\ref\UpperUnion.dll
